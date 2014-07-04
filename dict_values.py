@@ -13,12 +13,9 @@ available in a given dictionary.
 
 #dict with three values and keys
 d = {'Name': 'Emerson', 'Age': 27,'Sex': 'Male' }
-
 print(d)
 
 #get the values from a dict
 d_values = d.values()
-
 print (d_values)
-
 print(d)
